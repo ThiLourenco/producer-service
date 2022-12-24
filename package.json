@@ -1,0 +1,12 @@
+{
+  "name": "producer-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ThiLourenco/producer-service.git",
+  "author": "Thigo <thiago.l17@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.3"
+  },
+  "type": "module"
+}
