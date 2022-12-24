@@ -14,9 +14,8 @@ async function bootstrap() {
 })
   
   const producer = kafka.producer();
-
   await producer.connect();
-  
+
   await producer.send({
     topic: 'notifications.send-notification',
     messages: [
