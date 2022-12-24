@@ -1,2 +1,2 @@
 # producer-service
-Send notification - Example producer
+Send notification - Example Producing Messages
